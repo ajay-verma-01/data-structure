@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dynamic
+namespace DynamicPrograming
 {
     class Program
     {

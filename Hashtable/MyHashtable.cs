@@ -4,7 +4,7 @@ using System.Dynamic;
 using System.Text;
 using System.Threading;
 
-namespace CustomeHashTable
+namespace HashTable
 {
     public class Node<T>
     {

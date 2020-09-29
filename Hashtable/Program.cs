@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CustomeHashTable
+namespace HashTable
 {
     class Program
     {
