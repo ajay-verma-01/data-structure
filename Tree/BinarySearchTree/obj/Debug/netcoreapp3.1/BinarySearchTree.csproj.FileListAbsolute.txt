@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\TreeA\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache

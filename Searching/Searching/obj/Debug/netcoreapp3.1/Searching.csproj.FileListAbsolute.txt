@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\bin\Debug\netcoreapp3.1\Searching.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\SearchingA\Searching\obj\Debug\netcoreapp3.1\Searching.genruntimeconfig.cache

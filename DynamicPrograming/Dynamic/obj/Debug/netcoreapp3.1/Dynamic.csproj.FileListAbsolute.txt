@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\DynamicA\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache

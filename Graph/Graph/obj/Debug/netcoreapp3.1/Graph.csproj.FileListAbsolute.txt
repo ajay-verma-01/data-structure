@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

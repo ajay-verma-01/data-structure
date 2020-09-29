@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\bin\Debug\netcoreapp3.1\BFSAndDFS.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\GraphA\BFSAndDFS\obj\Debug\netcoreapp3.1\BFSAndDFS.genruntimeconfig.cache

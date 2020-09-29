@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\bin\Debug\netcoreapp3.1\FindMissingNumber.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindMissingNumber\obj\Debug\netcoreapp3.1\FindMissingNumber.genruntimeconfig.cache

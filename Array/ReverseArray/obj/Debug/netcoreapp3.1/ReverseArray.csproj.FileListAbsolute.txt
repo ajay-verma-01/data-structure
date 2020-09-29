@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache

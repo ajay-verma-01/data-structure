@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\bin\Debug\netcoreapp3.1\ArrayCustome.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\ArrayCustome\obj\Debug\netcoreapp3.1\ArrayCustome.genruntimeconfig.cache

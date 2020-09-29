@@ -1,0 +1,12 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\bin\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\LargestAndSmallestInUnSortedArray\obj\Debug\netcoreapp3.1\LargestAndSmallestInUnSortedArray.genruntimeconfig.cache

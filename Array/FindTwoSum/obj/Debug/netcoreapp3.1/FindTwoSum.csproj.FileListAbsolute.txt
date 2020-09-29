@@ -1,0 +1,13 @@
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.exe
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.deps.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.runtimeconfig.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.runtimeconfig.dev.json
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\bin\Debug\netcoreapp3.1\FindTwoSum.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.AssemblyInfoInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.AssemblyInfo.cs
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.csproj.CoreCompileInputs.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.dll
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.pdb
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.genruntimeconfig.cache
+D:\invw\demo\DataSctrutureSln\DataSctruture\Udemy\ArrayA\FindTwoSum\obj\Debug\netcoreapp3.1\FindTwoSum.csprojAssemblyReference.cache
