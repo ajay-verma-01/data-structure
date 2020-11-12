@@ -64,3 +64,5 @@
 /Sortings/obj
 /Stack/bin/Debug/netcoreapp3.1
 /Stack/obj
+/.vs/DataStructures/DesignTimeBuild
+/MaxOrders/obj

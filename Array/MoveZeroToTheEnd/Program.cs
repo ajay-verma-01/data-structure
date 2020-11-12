@@ -15,19 +15,17 @@ namespace MoveZeroToTheEnd
         {
             public static void MoveZeroes(int[] nums)
             {
-                int n = nums.Length;
                 int count = 0;
-                for (int i = 0; i < n; i++)
+                for (int i = 0; i < nums.Length; i++)
                 {
                     if (nums[i] != 0)
                     {
-                        nums[count++] = nums[i];
-                    }
-                }
+                        var temp = nums[count];
+                        nums[count] = nums[i];
+                        nums[i] = temp;
 
-                for (int i = count; i < n; i++)
-                {
-                    nums[i] = 0;
+                        count++;
+                    }
                 }
             }
         }

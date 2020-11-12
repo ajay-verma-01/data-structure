@@ -20,8 +20,7 @@ namespace ReverseArray
     {
         public static void ReverseString(int[] s)
         {
-            int halfLength = s.Length / 2;
-            for (int i = 0, j = s.Length - 1; i < halfLength; i++, j--)
+            for (int i = 0, j = s.Length - 1; i < j; i++, j--)
             {
                 var temp = s[i];
                 s[i] = s[j];

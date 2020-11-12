@@ -19,29 +19,29 @@ namespace MergeSortedArray
             }
         }
 
-        public static int[] MergeSortedArray(int[] a1, int[] a2)
+        public static int[] MergeSortedArray(int[] nums1, int[] nums2)
         {
             int i = 0, j = 0, k = 0;
-            int[] a3 = new int[a1.Length + a2.Length];
+            int[] a3 = new int[nums1.Length + nums2.Length];
 
-            while (i < a1.Length && j < a2.Length)
+            while (i < nums1.Length && j < nums2.Length)
             {
               
-                if (a1[i] < a2[j])
-                    a3[k++] = a1[i++];
+                if (nums1[i] < nums2[j])
+                    a3[k++] = nums1[i++];
                 else
-                    a3[k++] = a2[j++];
+                    a3[k++] = nums2[j++];
             }
 
-            while (i < a1.Length)
-                a3[k++] = a1[i++];
+            while (i < nums1.Length)
+                a3[k++] = nums1[i++];
 
-            while (j < a2.Length)
-                a3[k++] = a2[j++];
+            while (j < nums2.Length)
+                a3[k++] = nums2[j++];
 
-            
 
             return a3;
+        
         }
     }
 }
